@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">my nilai_ANGGELA MARICI D.NAGE</string>
+    <string-array name="numbers">
+        <item>Bahasa Inggris</item>
+        <item>Komputasi Cerdas</item>
+        <item>Mobile Computing</item>
+        <item>Manajemen Proyek</item>
+        <item>Komputer dan Masyarakat</item>
+    </string-array>
+</resources>
